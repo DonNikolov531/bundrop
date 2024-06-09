@@ -1,0 +1,30 @@
+.purchase-confirmation {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    text-align: center;
+    min-height: 75vh;
+}
+
+.thank-You {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.item {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.content {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+.liContent {
+    margin-bottom: 5px;
+}

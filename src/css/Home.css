@@ -1,0 +1,40 @@
+.burger-grid2 {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+    gap: 20px;
+    padding: 20px;
+    background-color: black;
+
+}
+
+.burger-card2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.15);
+}
+
+.burger-card2 img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.burger-card2 h3 {
+    margin: 10px 0;
+    font-size: 18px;
+    color: #333;
+}
+
+.burger-card2 p {
+    color: #888;
+}
+
+.home-text {
+    background-color: black;
+    color: white;
+}

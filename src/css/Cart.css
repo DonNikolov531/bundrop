@@ -1,0 +1,115 @@
+.cart-page {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    min-height: 75vh;
+}
+
+
+body {
+    /* background: linear-gradient(to bottom, black, white); */
+    background-image: linear-gradient(to bottom, #000000, #000000, #000000, #acbced, #c5cbf1, #dadcf5, #eeedfa);
+}
+
+
+h1 {
+    text-align: center;
+}
+
+.cart-items {
+    margin-top: 20px;
+}
+
+.cart-item  {
+    justify-content: space-between;
+    display: flex;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 5px;
+
+}
+
+.button-items
+{
+    display: flex;
+    align-items: center;
+}
+
+
+    
+   
+.cart-item-price {
+    display: flex;
+    align-items: start;
+    justify-content: flex-start;
+    width: 100%;
+    flex-direction: column;
+
+}
+
+.item-name {
+    font-weight: bold;
+}
+
+
+
+.item-price {
+    color: #888;
+    text-align: start;
+    margin-right: 200px;
+}
+
+.button-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.empty-button,
+.continue-button {
+    padding: 10px 20px;
+    background-color: maroon;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.continue-button {
+    background-color: #28a745;
+    margin-left: 10px;
+}
+
+.decrease-button, .increase-button, .delete-button {
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 0 5px;
+}
+
+.decrease-button {
+    background-color: maroon;
+    width: 30px;
+    height: 30px;
+}
+
+.increase-button {
+    background-color: #5cb85c;
+    width: 30px;
+    height: 30px;
+}
+
+.delete-button {
+    background-color: maroon;
+    width: 60px;
+    height: 40px;
+}
+
+.decrease-button:hover, .increase-button:hover, .delete-button:hover {
+    opacity: 0.8;
+}

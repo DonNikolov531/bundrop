@@ -1,0 +1,132 @@
+{
+    "menu": [
+      {
+        "id": 1,
+        "name": "Original Burger",
+        "price": 129,
+        "description": "I am a super fancy burger with a lot of stuff",
+        "img": "burger-1.png",
+        "category": "burgers"
+      },
+      {
+        "id": 2,
+        "name": "Black Burger",
+        "price": 139,
+        "description": "Black burger with bacon",
+        "img": "burger-2.png",
+        "category": "burgers"
+      },
+      {
+        "id": 3,
+        "name": "Cheese Burger",
+        "price": 129,
+        "description": "Double patty cheese burger",
+        "img": "burger-3.png",
+        "category": "burgers"
+      },
+      {
+        "id": 4,
+        "name": "Double Cheese Burger",
+        "price": 159,
+        "description": "Huge Cheese burger",
+        "img": "burger-4.png",
+        "category": "burgers"
+      },
+      {
+        "id": 5,
+        "name": "Triple Cheese Burger",
+        "price": 169,
+        "description": "With pickles",
+        "img": "burger-5.png",
+        "category": "burgers"
+      },
+      {
+        "id": 6,
+        "name": "Malmo Burger",
+        "price": 149,
+        "description": "From Malmö",
+        "img": "burger-6.png",
+        "category": "burgers"
+      },
+      {
+        "id": 7,
+        "name": "Luleå",
+        "price": 149,
+        "description": "From Stockholm",
+        "img": "burger-7.png",
+        "category": "burgers"
+      },
+      {
+        "id": 8,
+        "name": "New ton Burger",
+        "price": 109,
+        "description": "with pickles and bacon",
+        "img": "burger-8.png",
+        "category": "burgers"
+      },
+      {
+        "id": 9,
+        "name": "Fatty Patty Burger",
+        "price": 189,
+        "description": "Big fat burger",
+        "img": "burger-9.png",
+        "category": "burgers"
+      },
+      {
+        "id": 10,
+        "name": "Regular fires",
+        "price": 59,
+        "description": "with salt",
+        "img": "fries-1.png",
+        "category": "sides"
+      },
+      {
+        "id": 11,
+        "name": "Sweet potato",
+        "price": 59,
+        "description": "with salt",
+        "img": "fries-2.png",
+        "category": "sides"
+      },
+      {
+        "id": 12,
+        "name": "Milkshake",
+        "price": 39,
+        "description": "Oreo chocolate milkshake with oreos",
+        "img": "milkshake-1.png",
+        "category": "desserts"
+      },
+      {
+        "id": 13,
+        "name": "Frida",
+        "price": 20,
+        "description": "Early Bird",
+        "img": "soda-1.png",
+        "category": "drinks"
+      },
+      {
+        "id": 14,
+        "name": "Olipop",
+        "price": 30,
+        "description": "Straberry Vanilla",
+        "img": "soda-2.png",
+        "category": "drinks"
+      },
+      {
+        "id": 15,
+        "name": "Calpis Water",
+        "price": 30,
+        "description": "It's just water",
+        "img": "soda-3.png",
+        "category": "drinks"
+      },
+      {
+        "id": 16,
+        "name": "Positiv Energy",
+        "price": 30,
+        "description": "Zero suger",
+        "img": "soda-4.png",
+        "category": "drinks"
+      }
+    ]
+  }
